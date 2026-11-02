@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment dan secrets
+.env
+alchemyapi.txt
+
+# Database
+data/
+*.db
+
+# Editor
+.vscode/
